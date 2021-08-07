@@ -1,2 +1,2 @@
 # PreQuilizer
-![https://starchart.cc/mrbootboots/PreQuilizer.svg]
+!(https://starchart.cc/mrbootboots/PreQuilizer.svg)
